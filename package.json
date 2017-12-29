@@ -1,0 +1,15 @@
+{
+  "name": "nodejade",
+  "version": "1.0.0",
+  "description": "node with jade",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vipoosana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5",
+    "jade": "^1.11.0"
+  }
+}
